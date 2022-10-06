@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Abdul Minggu depan Merit !",
+      "slug": "abdul-minggu-depan-merit",
+      "body": "Kabar gembira teman teman..",
+      "banner": "https://images.pexels.com/photos/13830246/pexels-photo-13830246.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+    },
+    {
+      "id": 2,
+      "title": "Jvalley membuka batch 10",
+      "slug": "jvalley-membuka-batch-10",
+      "body": "Hello Teman teman..",
+      "banner": "https://images.pexels.com/photos/3345876/pexels-photo-3345876.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "id": 3,
+      "title": "Belajar basic Javascript",
+      "slug": "belajar-basic-javascript",
+      "body": "Kali ini kita akan belajar javascript",
+      "banner": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "title": "abdul pengen",
+      "slug": "ini-adalah-slug",
+      "body": "hallo teman teman saya abdul ",
+      "banner": "https://images.pexels.com/photos/13370725/pexels-photo-13370725.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "id": 4
+    },
+    {
+      "title": "Mollitia debitis dol",
+      "slug": "Repellendus-Eveniet",
+      "body": "Est deserunt reprehe",
+      "banner": "https://images.pexels.com/photos/13034288/pexels-photo-13034288.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "id": 5
+    },
+    {
+      "title": "Id et voluptatem do",
+      "slug": "Facere est architect",
+      "body": "Non in dicta sit a d",
+      "banner": "https://images.pexels.com/photos/12494192/pexels-photo-12494192.jpeg?auto=compress&cs=tinysrgb&w=500&lazy=load",
+      "id": 6
+    }
+  ]
+}
